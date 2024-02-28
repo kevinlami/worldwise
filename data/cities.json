@@ -1,0 +1,64 @@
+{
+  "cities": [
+    {
+      "id": "c5d7",
+      "cityName": "Florianopolis",
+      "country": "Brazil",
+      "emoji": "🇧🇷",
+      "date": "2024-02-26T22:06:02.516Z",
+      "notes": "",
+      "position": {
+        "lat": "-27.68517268552691",
+        "lng": "-48.53759765625001"
+      }
+    },
+    {
+      "id": "f33b",
+      "cityName": "Sao Paulo",
+      "country": "Brazil",
+      "emoji": "🇧🇷",
+      "date": "2024-02-27T16:28:02.507Z",
+      "notes": "",
+      "position": {
+        "lat": "-24.284149128397388",
+        "lng": "-46.86773816166514"
+      }
+    },
+    {
+      "id": "386b",
+      "cityName": "Charadai",
+      "country": "Argentina",
+      "emoji": "🇦🇷",
+      "date": "2024-02-27T16:45:50.319Z",
+      "notes": "",
+      "position": {
+        "lat": "-27.373344077936444",
+        "lng": "-59.87432191132978"
+      }
+    },
+    {
+      "id": "c15a",
+      "cityName": "Durazno",
+      "country": "Uruguay",
+      "emoji": "🇺🇾",
+      "date": "2024-02-27T16:46:07.443Z",
+      "notes": "",
+      "position": {
+        "lat": "-32.99299155993394",
+        "lng": "-55.26128269426882"
+      }
+    },
+    {
+      "id": "0279",
+      "cityName": "La Paz",
+      "country": "Bolivia (Plurinational State of)",
+      "emoji": "🇧🇴",
+      "date": "2024-02-28T03:02:14.347Z",
+      "notes": "Bom",
+      "position": {
+        "lat": "-16.490296252687163",
+        "lng": "-68.11523437500001"
+      }
+    }
+  ]
+}
